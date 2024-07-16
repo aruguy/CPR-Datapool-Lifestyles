@@ -1,5 +1,5 @@
 # Datapool-Lifestyles
-A FoundryVTT compendium of lifestyle items for CyberpunkRED.
+A FoundryVTT compendium of homebrew lifestyle items for CyberpunkRED.
 Item Compendium Includes:
 - Housing Items
 - Lifestyle Items
