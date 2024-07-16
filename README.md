@@ -1,6 +1,7 @@
 # Datapool-Lifestyles
 A FoundryVTT compendium of homebrew lifestyle items for CyberpunkRED.
-Item Compendium Includes:
+
+### Item Compendium Includes:
 - Housing Items
 - Lifestyle Items
 - Monthly Membership/Subscription Items
@@ -10,7 +11,8 @@ Item Compendium Includes:
 - Home Furnishings (as detailed in CargoContainers & CubeHotels / Corporate ConApts & Studio Apartments vist https://rtalsoriangames.com/downloadable-content/ for more info on DLC content)
 - Language Skills
 - Local Expert Skills
-Macro compendium Includes:
+
+### Macro compendium Includes:
 - Henzard's Lifestyle Calculation Tool
 - A collection of macros to award Cash/IP/Reputation
 
