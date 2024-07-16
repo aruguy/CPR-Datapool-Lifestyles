@@ -7,8 +7,7 @@ Item Compendium Includes:
 - Transportation Costs
 - Predatory Loans
 - Street Drugs / Longterm status effects
-- Home Furnishings (as detailed in CargoContainers & CubeHotels / Corporate ConApts & Studio Apartments)
- - vist https://rtalsoriangames.com/downloadable-content/ for more info on DLC content
+- Home Furnishings (as detailed in CargoContainers & CubeHotels / Corporate ConApts & Studio Apartments vist https://rtalsoriangames.com/downloadable-content/ for more info on DLC content)
 - Language Skills
 - Local Expert Skills
 Macro compendium Includes:
